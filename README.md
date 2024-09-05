@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&center=true&width=500&height=70&lines=Hi+There!%E2%9C%8C%EF%B8%8F;I'm+Katorivn!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%E2%9C%8C%EF%B8%8F;Mi+name+is+D%C6%B0%C6%A1ng+Nh%E1%BA%ADt+Anh%F0%9F%91%8C;a.k.a+Katorivn%F0%9F%AB%B5" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate software developer from Vietnam</h3>
@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a team**
  
- 🌱 I’m currently learning **C#, Dart, FluentUI**
+ 🌱 I’m currently learning **C#, Dart, WPF UI**
 
 💬 Ask me about **Java, C, MySQL... or anything [here](https://github.com/katorivn699/ProfileIntroduction/issues)**
 
@@ -45,8 +45,20 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/katorivn699/katorivn699/output/github-contribution-grid-snake.svg" />
-  
+    <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/katorivn699/katorivn699/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/katorivn699/katorivn699/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/katorivn699/katorivn699/output/github-contribution-grid-snake.svg"
+  />
+</picture>
   <br/><br/><br/>
 </div>
 
@@ -55,10 +67,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=katorivn699&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=katorivn699&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api?username=katorivn699&theme=tokyonight&show_icons=true&hide_border=true&count_private=false"/>
+  <img width=374 src="https://github-readme-streak-stats.herokuapp.com/?user=katorivn699&theme=tokyonight&hide_border=true" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=katorivn699&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katorivn699&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -71,7 +83,6 @@
 <a href='https://ko-fi.com/katorivn699' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <div align="center">
-<p>Template by salesp07</p>
 </div>
 
 <br/>
