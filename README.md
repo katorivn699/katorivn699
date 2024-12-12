@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **a team**
  
- 🌱 I’m currently learning **C#, Dart, WPF UI**
+ 🌱 I’m currently learning **C#, Dart,...**
 
 💬 Ask me about **Java, C, MySQL... or anything [here](https://github.com/katorivn699/ProfileIntroduction/issues)**
 
@@ -67,19 +67,17 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=350 src="https://github-readme-stats.vercel.app/api?username=katorivn699&theme=tokyonight&show_icons=true&hide_border=true&count_private=false"/>
-  <img width=374 src="https://github-readme-streak-stats.herokuapp.com/?user=katorivn699&theme=tokyonight&hide_border=true" alt="readme stats" />
-  <br/>
-  <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katorivn699&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+  <img width=350 src="https://github-readme-stats.vercel.app/api?username=katorivn699&theme=vue-dark&show_icons=true&hide_border=false&count_private=true"/>
+    <br/>
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=katorivn699&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <hr/>
 
-<br/>
-
 <div align="center">
+<h1>☕Ko-fi☕</h2>
 <a href='https://ko-fi.com/katorivn699' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <div align="center">
