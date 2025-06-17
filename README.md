@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+Katorivn's+Profile" alt="Banner" width="100%"/>
     <h1>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%E2%9C%8C%EF%B8%8F;My+name+is+D%C6%B0%C6%A1ng+Nh%E1%BA%ADt+Anh%F0%9F%91%8B;a+k.a+Katorivn%F0%9F%AB%B5" alt="Typing SVG" /></a>
     </h1>
