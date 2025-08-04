@@ -57,14 +57,14 @@
             <th>Technologies</th>
         </tr>
         <tr>
-            <td><a href="https://github.com/katorivn699/task-manager">Task Manager</a></td>
+            <td><a href="https://github.com/katorivn699/EMCDashboard">Emc management</a></td>
             <td>A web app for task management</td>
-            <td>React, Node.js, MongoDB</td>
+            <td>Nextjs, MongoDB, Pusher</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/katorivn699/learning-app">Learning App</a></td>
+            <td><a href="https://github.com/katorivn699/beludrive">Drive Learning App</a></td>
             <td>An Android app for learning</td>
-            <td>Java, Android Studio</td>
+            <td>Dart, Flutter, Android Studio</td>
         </tr>
     </table>
 </div>
